@@ -1,8 +1,4 @@
-- 👋 Hola,soy walter / Hi, I’m walter
-- 🌱 Actualmente estoy aprendiendo html, CSS y JavaScript como autodidacta... / I’m currently learning html , CSS and JavaScript as a self-taught person...
-- 💞️ Busco colaborar en cualquier proyecto en el que pueda aprender y mejorar mis habilidades... / I’m looking to collaborate on any project in which I can learn and improve my skills...
-- 📫 Como contactarme torreswaltermaximo@gmail.com... / How to reach me torreswaltermaximo@gmail.com...
-
+le entro al html y css , algo de javascript, y toco de oido algunas otras cosas mas
 <!---
 wadog/wadog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
